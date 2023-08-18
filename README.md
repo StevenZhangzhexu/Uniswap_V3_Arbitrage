@@ -1,6 +1,6 @@
 # Uniswap_V3_Arbitrage
 
-Discove Triangular Arbitrage opportunities in the Cryptocurrency market.
+Discover Triangular Arbitrage opportunities in the Cryptocurrency market.
 
 ## Limitation & Next Step
 Gas fee is not considered in Uniswap V3 Quoter.
