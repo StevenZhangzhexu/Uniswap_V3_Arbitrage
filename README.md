@@ -13,3 +13,6 @@ for example, the program showed this oppotunity.
 However due to other cost (gas fee, web fee, slippage lost etc..), this trade does not make money.<img width="551" alt="Screenshot 2023-08-14 at 12 17 30 PM" src="https://github.com/StevenZhangzhexu/Uniswap_V3_Arbitrage/assets/68343996/47a947a9-a973-4f77-ae9e-fc112e8b0ff3">
 <img width="600" alt="Screenshot 2023-08-14 at 12 06 13 PM" src="https://github.com/StevenZhangzhexu/Uniswap_V3_Arbitrage/assets/68343996/c2a6a254-b807-4276-a7a4-e6835d3fdf9e">
 <img width="574" alt="Screenshot 2023-08-14 at 12 16 46 PM" src="https://github.com/StevenZhangzhexu/Uniswap_V3_Arbitrage/assets/68343996/bf0fc81f-0bcd-480b-bae3-ee77b82713ad">
+
+## Reference
+https://medium.com/geekculture/automated-triangular-arbitrage-of-cryptos-in-4-steps-a678f7b01ce7
